@@ -2,6 +2,11 @@
     color: red;
 }
 
-p.para{
+#firsth2{
+    background-color: pink;
+    
+}
+
+.capitalpara{
     background-color: beige;
 }
